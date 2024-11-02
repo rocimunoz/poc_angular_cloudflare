@@ -24,7 +24,11 @@
     "express": "^4.18.2",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.14.10"
+    "zone.js": "~0.14.10",
+    "chokidar": "4.0.1",
+    "readdirp": "4.0.2",
+    "glob-parent": "5.1.2",
+    "picomatch": "2.3.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^18.2.10",
